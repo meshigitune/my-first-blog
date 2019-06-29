@@ -25,7 +25,7 @@ SECRET_KEY = 's9x@lwath(b&slywcm@7ol$h=8n%r_*77x3b=*-)zix*h0j4+&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','meshigitune.pythonanywhere.com']
+ALLOWED_HOSTS = ['meshigitune.pythonanywhere.com','127.0.0.1','meshigitune.pythonanywhere.com']
 
 
 # Application definition
